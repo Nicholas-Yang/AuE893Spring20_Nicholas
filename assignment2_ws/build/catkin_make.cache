@@ -1,0 +1,2 @@
+assignment2_turtlesim
+-DCATKIN_DEVEL_PREFIX=/home/nicholas/assignment2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nicholas/assignment2_ws/install -G Unix Makefiles
